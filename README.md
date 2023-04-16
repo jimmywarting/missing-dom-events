@@ -45,7 +45,7 @@ This is all the events that are built in into the engine natively.
 All of this are also what you will get out from importing this package.
 
 | (Event)                                  | Node | Deno |
-|------------------------------------------|------|------|
+|------------------------------------------|:----:|:----:|
 |              AnimationEvent              |  ❌  |  ❌  |
 |          AnimationPlaybackEvent          |  ❌  |  ❌  |
 |           AudioProcessingEvent           |  ❌  |  ❌  |
