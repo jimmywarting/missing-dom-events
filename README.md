@@ -19,8 +19,11 @@ events.
 
 ## Install
 
-`missing-dom-events` is an ESM-only module - you are not able to import it with `require`. If you are unable to use ESM in your project you can use the async `import('missing-dom-events')` from CommonJS to load `missing-dom-events` asynchronously.<br>
-`npm install missing-dom-events`
+`missing-dom-events` is an ESM-only module - you are not able to import it with `require`. If you are unable to use ESM in your project you can use the async `import('missing-dom-events')` from CommonJS to load `missing-dom-events` asynchronously.
+
+```
+npm install missing-dom-events
+```
 
 ## Use
 
