@@ -1,29 +1,30 @@
 {
-  "name": "<package name>",
+  "name": "missing-dom-events",
   "version": "1.0.0",
-  "description": "<package desc>",
-  "main": "mod.js",
+  "description": "The missing DOM events for backends that doesn't support them",
+  "main": "events.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jimmywarting/<package name>.git"
+    "url": "git+https://github.com/jimmywarting/missing-dom-events.git"
   },
   "keywords": [
-    "key",
-    "words"
+    "DOMEvents",
+    "polyfill",
+    "ponyfill"
   ],
   "author": "Jimmy Wärting <jimmy@warting.se> (https://jimmy.warting.se/opensource)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jimmywarting/<package name>/issues"
+    "url": "https://github.com/jimmywarting/missing-dom-events/issues"
   },
   "engines": {
     "node": ">=14.16"
   },
-  "homepage": "https://github.com/jimmywarting/<package name>#readme",
+  "homepage": "https://github.com/jimmywarting/missing-dom-events#readme",
   "funding": [
     {
       "type": "github",
